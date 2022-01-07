@@ -8,6 +8,7 @@ h1{
     color:rgb(218, 64, 8);
 }section{ 
     display: flex;
+    margin-bottom: 200px;
 }
 .half-width{
     width: 60%;
